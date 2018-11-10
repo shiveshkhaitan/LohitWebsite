@@ -1,0 +1,477 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.lohit.com" resolutions="1x" timestamp="1465813101384">
+  <folder name="css">
+    <file name="site_global.css" crc="3983492415"/>
+    <file name="about-us.css" crc="4002763800" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="4280359079" ref="about-us"/>
+    <file name="sports.css" crc="3784260345" ref="sports"/>
+    <file name="gallery.css" crc="292192375" ref="gallery"/>
+    <file name="contact-us.css" crc="4050195605" ref="contact-us"/>
+    <file name="iefonts_contact-us.css" crc="4057720808" ref="contact-us"/>
+    <file name="academics.css" crc="241903667" ref="academics"/>
+    <file name="iefonts_academics.css" crc="277344246" ref="academics"/>
+    <file name="index.css" crc="3912238168" ref="index"/>
+    <file name="iefonts_index.css" crc="33082304" ref="index"/>
+    <file name="culture.css" crc="534034697" ref="culture"/>
+    <file name="iefonts_culture.css" crc="36633848" ref="culture"/>
+  </folder>
+  <folder name="assets">
+    <file name="dsc_01012.jpg" crc="3831752999" seo="true" mt="1448113276000"/>
+    <file name="dsc_0045.nef" crc="437822210" seo="true" mt="1465227300000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="museutils.js" crc="183364071" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="pie.js" crc="3827607177" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="webpro.js" crc="3803554875" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about-us:contact-us:academics:sports:culture"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="tiger_head_symbol_by_skurpix-d4spg3k_white.png" crc="87700678" seo="true" ref="index:contact-us:academics:sports:gallery:culture"/>
+    <file name="tiger4.png" crc="250197371" seo="true" ref="index"/>
+    <file name="img_9363.jpg" crc="4084114096" seo="true" ref="index"/>
+    <file name="img_93632.jpg" crc="4086093427" seo="true" ref="index"/>
+    <file name="up-white-arrow-md.png" crc="232930013" seo="true" ref="index:about-us:contact-us:academics:sports:culture"/>
+    <file name="light-bulb-free-download-png.png" crc="3857903041" seo="true" ref="index"/>
+    <file name="bulb_png1247 - copy.png" crc="3839846949" seo="true" ref="index"/>
+    <file name="swirl_pattern.jpg" crc="4040654463" seo="true" ref="index"/>
+    <file name="u6919-4.png" crc="4103332150" ref="index"/>
+    <file name="lohit_grey.png" crc="56071476" seo="true" ref="index"/>
+    <file name="bold inset separator.png" crc="179789483" seo="true" ref="index"/>
+    <file name="pasted image 1400x814.jpg" crc="527834281" seo="true" ref="index"/>
+    <file name="img_3903 (2).jpg" crc="4187352113" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:contact-us:gallery"/>
+    <file name="u14458.png" crc="4108396251" ref="index"/>
+    <file name="u14458-r.png" crc="331774703" ref="index"/>
+    <file name="scan0002-2.jpg" crc="429745731" seo="true" ref="index"/>
+    <file name="u21877-6.png" crc="13559136" ref="index"/>
+    <file name="pasted image 500x750.jpg" crc="192727802" seo="true" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="pasted image 361x542.jpg" crc="4234946447" seo="true" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="dsc_0209-2-crop-u17376.jpg" crc="276215200" ref="index"/>
+    <file name="dsc_0204-2.jpg" crc="245981461" seo="true" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="pasted image 500x7502.jpg" crc="3883771595" seo="true" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="footer.jpg" crc="14547865" seo="true" ref="index:contact-us:academics:sports:gallery:culture"/>
+    <file name="facebook29.png" crc="4197310193" seo="true" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="google plus.png" crc="320497432" seo="true" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="youtube17-1.png" crc="3768517054" seo="true" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="site mapp (2).png" crc="4216449066" seo="true" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="checkbox6.png" crc="4118046289" seo="true" ref="index:about-us:contact-us:academics:sports:gallery:culture"/>
+    <file name="u14075-6.png" crc="3975090162" ref="about-us"/>
+    <file name="dsc_9169_result-crop-u7672.jpg" crc="322288539" ref="about-us"/>
+    <file name="dsc_9171_result-crop-u15598.jpg" crc="76968830" ref="about-us"/>
+    <file name="dsc_9173_result-crop-u15607.jpg" crc="378518402" ref="about-us"/>
+    <file name="dsc_9175_result-crop-u15616.jpg" crc="4072643328" ref="about-us"/>
+    <file name="dsc_9177_result-crop-u15625.jpg" crc="356317875" ref="about-us"/>
+    <file name="dsc_9179_result-crop-u15634.jpg" crc="3901999665" ref="about-us"/>
+    <file name="dsc_9180_result-crop-u15643.jpg" crc="425263766" ref="about-us"/>
+    <file name="dsc_9182_result-crop-u15652.jpg" crc="4194829299" ref="about-us"/>
+    <file name="dsc_9184_result-crop-u15661.jpg" crc="3835871278" ref="about-us"/>
+    <file name="dsc_9186_result-crop-u15670.jpg" crc="4214642767" ref="about-us"/>
+    <file name="dsc_9188_result-crop-u15679.jpg" crc="463899595" ref="about-us"/>
+    <file name="dsc_9190_result-crop-u15688.jpg" crc="4257470746" ref="about-us"/>
+    <file name="dsc_9191_result-crop-u15697.jpg" crc="3854708472" ref="about-us"/>
+    <file name="dsc_9193_result-crop-u15706.jpg" crc="3855310217" ref="about-us"/>
+    <file name="dsc_9195_result-crop-u15715.jpg" crc="3969938827" ref="about-us"/>
+    <file name="dsc_9197_result-crop-u15724.jpg" crc="326007546" ref="about-us"/>
+    <file name="dsc_9199_result-crop-u15733.jpg" crc="452300873" ref="about-us"/>
+    <file name="dsc_9201_result-crop-u15742.jpg" crc="294555439" ref="about-us"/>
+    <file name="dsc_9202_result-crop-u15751.jpg" crc="3814979981" ref="about-us"/>
+    <file name="dsc_9204_result-crop-u15760.jpg" crc="316091707" ref="about-us"/>
+    <file name="dsc_9206_result-crop-u15769.jpg" crc="3921563068" ref="about-us"/>
+    <file name="dsc_9208_result-crop-u15778.jpg" crc="3856417901" ref="about-us"/>
+    <file name="dsc_9210_result-crop-u15787.jpg" crc="3933116046" ref="about-us"/>
+    <file name="dsc_9212_result-crop-u15796.jpg" crc="3762618663" ref="about-us"/>
+    <file name="dsc_9213_result-crop-u15805.jpg" crc="508951252" ref="about-us"/>
+    <file name="dsc_9215_result-crop-u15814.jpg" crc="4147154880" ref="about-us"/>
+    <file name="dsc_9217_result-crop-u15823.jpg" crc="4131531825" ref="about-us"/>
+    <file name="dsc_9219_result-crop-u15832.jpg" crc="388151140" ref="about-us"/>
+    <file name="dsc_9221_result-crop-u15841.jpg" crc="4065398809" ref="about-us"/>
+    <file name="dsc_9223_result-crop-u15850.jpg" crc="4094182705" ref="about-us"/>
+    <file name="dsc_9224_result-crop-u15859.jpg" crc="4151515659" ref="about-us"/>
+    <file name="dsc_9226_result-crop-u15868.jpg" crc="303986961" ref="about-us"/>
+    <file name="dsc_9228_result-crop-u15877.jpg" crc="4151060261" ref="about-us"/>
+    <file name="dsc_9230_result-crop-u15886.jpg" crc="236585526" ref="about-us"/>
+    <file name="dsc_9232_result-crop-u15895.jpg" crc="3925280172" ref="about-us"/>
+    <file name="dsc_9234_result-crop-u15904.jpg" crc="4178767980" ref="about-us"/>
+    <file name="dsc_9235_result-crop-u16061.jpg" crc="373240441" ref="about-us"/>
+    <file name="dsc_9237_result-crop-u16070.jpg" crc="129068296" ref="about-us"/>
+    <file name="dsc_9239_result-crop-u16079.jpg" crc="123319182" ref="about-us"/>
+    <file name="dsc_9241_result-crop-u16088.jpg" crc="4261257405" ref="about-us"/>
+    <file name="dsc_9243_result-crop-u16097.jpg" crc="455033695" ref="about-us"/>
+    <file name="dsc_9245_result-crop-u16106.jpg" crc="81337370" ref="about-us"/>
+    <file name="dsc_9246_result-crop-u16115.jpg" crc="476651475" ref="about-us"/>
+    <file name="dsc_9248_result-crop-u16124.jpg" crc="316568425" ref="about-us"/>
+    <file name="dsc_9250_result-crop-u16133.jpg" crc="4227519635" ref="about-us"/>
+    <file name="dsc_9252_result-crop-u16142.jpg" crc="3916944954" ref="about-us"/>
+    <file name="dsc_9254_result-crop-u16151.jpg" crc="480051692" ref="about-us"/>
+    <file name="dsc_9256_result-crop-u16160.jpg" crc="3914977619" ref="about-us"/>
+    <file name="dsc_9257_result-crop-u16169.jpg" crc="530772220" ref="about-us"/>
+    <file name="dsc_9259_result-crop-u16178.jpg" crc="4194211343" ref="about-us"/>
+    <file name="dsc_9261_result-crop-u16187.jpg" crc="3978112246" ref="about-us"/>
+    <file name="dsc_9263_result-crop-u16196.jpg" crc="518531191" ref="about-us"/>
+    <file name="dsc_9265_result-crop-u16205.jpg" crc="400218250" ref="about-us"/>
+    <file name="dsc_9267_result-crop-u16214.jpg" crc="507266148" ref="about-us"/>
+    <file name="dsc_9268_result-crop-u16223.jpg" crc="4093861362" ref="about-us"/>
+    <file name="dsc_9269_result-crop-u16232.jpg" crc="19848117" ref="about-us"/>
+    <file name="dsc_9270_result-crop-u16241.jpg" crc="495382808" ref="about-us"/>
+    <file name="dsc_9271_result-crop-u16250.jpg" crc="4259335985" ref="about-us"/>
+    <file name="dsc_9272_result-crop-u16259.jpg" crc="238963601" ref="about-us"/>
+    <file name="dsc_9273_result-crop-u16268.jpg" crc="4161792166" ref="about-us"/>
+    <file name="dsc_9274_1-crop-u16277.jpg" crc="221794320" ref="about-us"/>
+    <file name="dsc_9274_2-crop-u16286.jpg" crc="4110933206" ref="about-us"/>
+    <file name="dsc_9274_3-crop-u16295.jpg" crc="278777150" ref="about-us"/>
+    <file name="dsc_9277_result-crop-u16304.jpg" crc="4027659402" ref="about-us"/>
+    <file name="dsc_9278_result-crop-u16313.jpg" crc="3865451134" ref="about-us"/>
+    <file name="dsc_9279_relt-crop-u16322.jpg" crc="3939107554" ref="about-us"/>
+    <file name="loading.gif" crc="3815509949" ref="about-us:contact-us:gallery"/>
+    <file name="dsc_9279_relt-crop-u14496.jpg" crc="4228681370" ref="about-us"/>
+    <file name="u7368.png" crc="463118367" ref="about-us"/>
+    <file name="u7368-r.png" crc="506229406" ref="about-us"/>
+    <file name="u23347.png" crc="3795419747" ref="about-us"/>
+    <file name="u23347-r.png" crc="3885163522" ref="about-us"/>
+    <file name="u23348.png" crc="4219039094" ref="about-us"/>
+    <file name="u23348-r.png" crc="204613330" ref="about-us"/>
+    <file name="u23349.png" crc="4012034489" ref="about-us"/>
+    <file name="u23349-r.png" crc="3964806056" ref="about-us"/>
+    <file name="u23350.png" crc="33125212" ref="about-us"/>
+    <file name="u23350-r.png" crc="3871057906" ref="about-us"/>
+    <file name="u31054-4.png" crc="4262036218" ref="about-us"/>
+    <file name="u31055-6.png" crc="423083044" ref="about-us"/>
+    <file name="u31057-7.png" crc="4090857563" ref="about-us"/>
+    <file name="u31060-7.png" crc="50578507" ref="about-us"/>
+    <file name="dsc_0017.jpg" crc="427741335" seo="true" ref="about-us"/>
+    <file name="dsc_0122.jpg" crc="478212471" seo="true" ref="about-us"/>
+    <file name="dsc_0123.jpg" crc="265405352" seo="true" ref="about-us"/>
+    <file name="tiger4-crop-u32061.png" crc="90263305" ref="about-us"/>
+    <file name="house180(white).png" crc="4076000957" seo="true" ref="about-us"/>
+    <file name="tiger4-crop-u32054.png" crc="64046105" ref="about-us"/>
+    <file name="dsc_0209-2-crop-u32731.jpg" crc="276215200" ref="about-us"/>
+    <file name="tiger2.png" crc="8034504" seo="true" ref="contact-us"/>
+    <file name="dsc_9272-4-crop-u19412.jpg" crc="4187494047" ref="contact-us"/>
+    <file name="elegant_background-2-crop-u19624.jpg" crc="523526993" ref="contact-us"/>
+    <file name="u6193-7.png" crc="3998319323" ref="contact-us"/>
+    <file name="u20867-11.png" crc="292075140" ref="contact-us"/>
+    <file name="img_9531.jpg" crc="438593537" seo="true" ref="contact-us"/>
+    <file name="u20789-14.png" crc="4099930642" ref="contact-us"/>
+    <file name="img_9531-crop-u20797.jpg" crc="4092685416" ref="contact-us"/>
+    <file name="u17017-4.png" crc="118974810" ref="contact-us"/>
+    <file name="img_9537.jpg" crc="4131129200" seo="true" ref="contact-us"/>
+    <file name="u20724-14.png" crc="4177619615" ref="contact-us"/>
+    <file name="u19763-4.png" crc="203902348" ref="contact-us"/>
+    <file name="pasted image 5142x853-crop-u21074.jpg" crc="307062356" ref="contact-us"/>
+    <file name="bijan.jpg" crc="535048895" seo="true" ref="contact-us"/>
+    <file name="img_9466-u19909.png" crc="333520468" ref="contact-us"/>
+    <file name="img_9467-u20214.png" crc="114859318" ref="contact-us"/>
+    <file name="img_9470-u20223.png" crc="403085375" ref="contact-us"/>
+    <file name="img_9478-u20232.png" crc="3861133241" ref="contact-us"/>
+    <file name="img_9480-u20241.png" crc="3860385060" ref="contact-us"/>
+    <file name="img_9482-u20250.png" crc="4109917629" ref="contact-us"/>
+    <file name="img_9483-u20259.png" crc="343782870" ref="contact-us"/>
+    <file name="img_9485-u20268.png" crc="298058848" ref="contact-us"/>
+    <file name="img_9526.jpg" crc="331439044" seo="true" ref="contact-us"/>
+    <file name="img_9461258x387.jpg" crc="323108715" seo="true" ref="contact-us"/>
+    <file name="img_9473.jpg" crc="426545662" seo="true" ref="contact-us"/>
+    <file name="u19901.png" crc="4019245071" ref="contact-us"/>
+    <file name="u19901-r.png" crc="4019245071" ref="contact-us"/>
+    <file name="u20217.png" crc="3658551" ref="contact-us"/>
+    <file name="u20217-r.png" crc="3658551" ref="contact-us"/>
+    <file name="u20226.png" crc="81975828" ref="contact-us"/>
+    <file name="u20226-r.png" crc="81975828" ref="contact-us"/>
+    <file name="u20235.png" crc="141148011" ref="contact-us"/>
+    <file name="u20235-r.png" crc="141148011" ref="contact-us"/>
+    <file name="u20244.png" crc="4240580642" ref="contact-us"/>
+    <file name="u20244-r.png" crc="4240580642" ref="contact-us"/>
+    <file name="u20253.png" crc="4068148580" ref="contact-us"/>
+    <file name="u20253-r.png" crc="4068148580" ref="contact-us"/>
+    <file name="u20262.png" crc="1275512" ref="contact-us"/>
+    <file name="u20262-r.png" crc="1275512" ref="contact-us"/>
+    <file name="u20271.png" crc="4150428628" ref="contact-us"/>
+    <file name="u20271-r.png" crc="4150428628" ref="contact-us"/>
+    <file name="img_9461-crop-u20208.jpg" crc="43659353" ref="contact-us"/>
+    <file name="img_9473-crop-u20280.jpg" crc="3858284118" ref="contact-us"/>
+    <file name="u21744-7.png" crc="285955845" ref="contact-us"/>
+    <file name="u19896-6.png" crc="4237752299" ref="contact-us"/>
+    <file name="u20220-6.png" crc="4180860907" ref="contact-us"/>
+    <file name="u20229-7.png" crc="4292213400" ref="contact-us"/>
+    <file name="u20238-7.png" crc="4235721272" ref="contact-us"/>
+    <file name="u20247-7.png" crc="413335560" ref="contact-us"/>
+    <file name="u20256-7.png" crc="4058816513" ref="contact-us"/>
+    <file name="u20265-7.png" crc="270845991" ref="contact-us"/>
+    <file name="u20274-6.png" crc="4224756717" ref="contact-us"/>
+    <file name="u20336-6.png" crc="373163286" ref="contact-us"/>
+    <file name="u20211-7.png" crc="525282577" ref="contact-us"/>
+    <file name="u20283-7.png" crc="386751036" ref="contact-us"/>
+    <file name="pasted image 5142x853-crop-u19773.jpg" crc="130417729" ref="contact-us"/>
+    <file name="pasted image 5142x853.jpg" crc="395536468" seo="true" ref="contact-us"/>
+    <file name="pasted image 376x49.jpg" crc="3870912436" seo="true" ref="contact-us"/>
+    <file name="u19807-4.png" crc="127332386" ref="contact-us"/>
+    <file name="u19812-4.png" crc="3949319335" ref="contact-us"/>
+    <file name="u19845-4.png" crc="52464010" ref="contact-us"/>
+    <file name="u19822-4.png" crc="242611455" ref="contact-us"/>
+    <file name="u19827-4.png" crc="534505744" ref="contact-us"/>
+    <file name="u19840-4.png" crc="338253986" ref="contact-us"/>
+    <file name="u19817-4.png" crc="4099351172" ref="contact-us"/>
+    <file name="u19850-4.png" crc="3977615635" ref="contact-us"/>
+    <file name="u19855-4.png" crc="280898295" ref="contact-us"/>
+    <file name="u19860-4.png" crc="4104792009" ref="contact-us"/>
+    <file name="u19887-4.png" crc="4132876686" ref="contact-us"/>
+    <file name="u21749-4.png" crc="52065327" ref="contact-us"/>
+    <file name="img_9551.jpg" crc="511338146" seo="true" ref="contact-us"/>
+    <file name="u31806-4.png" crc="4047568048" ref="contact-us"/>
+    <file name="dsc_0209-2-crop-u32582.jpg" crc="276215200" ref="contact-us"/>
+    <file name="tiger.png" crc="3769070306" seo="true" ref="academics:gallery:culture"/>
+    <file name="tiger22.png" crc="8034504" seo="true" ref="academics"/>
+    <file name="dsc_0111 - copy.jpg" crc="273644074" seo="true" ref="academics"/>
+    <file name="11518381-seamless-background-with-books-stock-vector.jpg" crc="442281822" seo="true" ref="academics"/>
+    <file name="untitled3.jpg" crc="4070740547" seo="true" ref="academics"/>
+    <file name="untitled4.jpg" crc="136923145" seo="true" ref="academics"/>
+    <file name="u17566-4.png" crc="4259135912" ref="academics"/>
+    <file name="u5422-14.png" crc="4156456910" ref="academics"/>
+    <file name="dsc_0025.jpg" crc="3993908987" seo="true" ref="academics"/>
+    <file name="iuijdcu-u18038-fr.png" crc="78508717" ref="academics"/>
+    <file name="dsc_0209-2-crop-u32246.jpg" crc="276215200" ref="academics"/>
+    <file name="rag_0224.jpg" crc="4279806118" seo="true" ref="sports"/>
+    <file name="sqr305_pwr_blk-sq-3-u22840.png" crc="3781130757" ref="sports"/>
+    <file name="sqr305_pwr_blk-sq-3-u23071.png" crc="3865820722" ref="sports"/>
+    <file name="tiger23.png" crc="3877187380" seo="true" ref="sports"/>
+    <file name="tiger-black.png" crc="167306563" seo="true" ref="sports"/>
+    <file name="dsc_0256.jpg" crc="3773555126" seo="true" ref="sports"/>
+    <file name="athletics-u22985.png" crc="352518733" ref="sports"/>
+    <file name="athletics-u22969.png" crc="4165789983" ref="sports"/>
+    <file name="volleyball-png-picture.png" crc="3794710545" seo="true" ref="sports"/>
+    <file name="football-829700_960_720-crop-u22981.png" crc="481822658" ref="sports"/>
+    <file name="mto_tennis_ball.png" crc="243060892" seo="true" ref="sports"/>
+    <file name="water_polo_ball_icon.png" crc="3953336200" seo="true" ref="sports"/>
+    <file name="basketball-free-download-png.png" crc="3829767138" seo="true" ref="sports"/>
+    <file name="olympic_rings.png" crc="179888471" seo="true" ref="sports"/>
+    <file name="u22902-4.png" crc="239338587" ref="sports"/>
+    <file name="worn_dots_@2x-u22998-13.png" crc="3821194528" ref="sports"/>
+    <file name="dsc_0348-crop-u22996.jpg" crc="4278783749" ref="sports"/>
+    <file name="worn_dots_@2x-u22918-13.png" crc="4258015313" ref="sports"/>
+    <file name="rag_0201-crop-u22919.jpg" crc="205781014" ref="sports"/>
+    <file name="worn_dots_@2x-u22878-13.png" crc="4245670607" ref="sports"/>
+    <file name="rag_0320-u22879.png" crc="511930681" ref="sports"/>
+    <file name="worn_dots_@2x-u30927-13.png" crc="400215926" ref="sports"/>
+    <file name="dsc_0140.jpg" crc="443697577" seo="true" ref="sports"/>
+    <file name="worn_dots_@2x-u30922-13.png" crc="63504436" ref="sports"/>
+    <file name="dsc_0122-crop-u30920.jpg" crc="231879586" ref="sports"/>
+    <file name="worn_dots_@2x-u22909-13.png" crc="3849883316" ref="sports"/>
+    <file name="dsc_0128 (2)-crop-u22910.jpg" crc="4117179010" ref="sports"/>
+    <file name="worn_dots_@2x-u23235-14.png" crc="3998669715" ref="sports"/>
+    <file name="dsc_6870_result-crop-u30936.jpg" crc="434660104" ref="sports"/>
+    <file name="worn_dots_@2x-u23231-14.png" crc="215820531" ref="sports"/>
+    <file name="dsc_0021-u23232.png" crc="4118788847" ref="sports"/>
+    <file name="worn_dots_@2x-u30977-13.png" crc="188983331" ref="sports"/>
+    <file name="img_9632-crop-u30963.jpg" crc="4274886138" ref="sports"/>
+    <file name="worn_dots_@2x-u30972-14.png" crc="491768247" ref="sports"/>
+    <file name="dsc_8473-crop-u30970.jpg" crc="339516993" ref="sports"/>
+    <file name="worn_dots_@2x-u23269-14.png" crc="3793958776" ref="sports"/>
+    <file name="img_2278-crop-u23267.jpg" crc="4110513513" ref="sports"/>
+    <file name="worn_dots_@2x-u23271-13.png" crc="249742677" ref="sports"/>
+    <file name="img_2244-crop-u23272.jpg" crc="4026466425" ref="sports"/>
+    <file name="worn_dots_@2x-u23265-13.png" crc="436932107" ref="sports"/>
+    <file name="dsc_0059-crop-u23263.jpg" crc="447178368" ref="sports"/>
+    <file name="worn_dots_@2x-u23259-14.png" crc="3912912300" ref="sports"/>
+    <file name="dsc_0036.jpg" crc="3928875926" seo="true" ref="sports"/>
+    <file name="u31014-6.png" crc="3946074995" ref="sports"/>
+    <file name="dsc_0209-2-crop-u32403.jpg" crc="276215200" ref="sports"/>
+    <file name="7d85d422-e056-4e3c-95a4-14f2678397ad.jpg" crc="4030236483" ref="gallery"/>
+    <file name="ipad-landscape.png" crc="161176678" seo="true" ref="gallery"/>
+    <file name="u24393-grad.png" crc="26604751" ref="gallery"/>
+    <file name="road.jpg" crc="407518620" seo="true" ref="gallery"/>
+    <file name="elegant_background-9-crop-u24654.jpg" crc="210757611" ref="gallery"/>
+    <file name="u26308.png" crc="534370474" ref="gallery"/>
+    <file name="u26308-r.png" crc="528310565" ref="gallery"/>
+    <file name="u26331.png" crc="209544339" ref="gallery"/>
+    <file name="u26331-r.png" crc="120959571" ref="gallery"/>
+    <file name="u26334.png" crc="36731699" ref="gallery"/>
+    <file name="u26334-r.png" crc="216381419" ref="gallery"/>
+    <file name="u26337.png" crc="4190639868" ref="gallery"/>
+    <file name="u26337-r.png" crc="4279257345" ref="gallery"/>
+    <file name="u26496.png" crc="3764501158" ref="gallery"/>
+    <file name="u26496-r.png" crc="481718785" ref="gallery"/>
+    <file name="dsc_0053-crop-u27524.jpg" crc="467340263" ref="gallery"/>
+    <file name="dsc_1638-crop-u27527.jpg" crc="134541775" ref="gallery"/>
+    <file name="img_5919-crop-u27531.jpg" crc="3881039042" ref="gallery"/>
+    <file name="img_9358-crop-u27535.jpg" crc="4191622417" ref="gallery"/>
+    <file name="u27542-4.png" crc="446526173" ref="gallery"/>
+    <file name="u27548-4.png" crc="316749589" ref="gallery"/>
+    <file name="u27549-4.png" crc="76763135" ref="gallery"/>
+    <file name="u27550-4.png" crc="3791023898" ref="gallery"/>
+    <file name="u26899.png" crc="3981973838" ref="gallery"/>
+    <file name="u26899-r.png" crc="177401112" ref="gallery"/>
+    <file name="dsc_0003.jpg" crc="3912671429" seo="true" ref="gallery"/>
+    <file name="dsc_0009.jpg" crc="190029219" seo="true" ref="gallery"/>
+    <file name="dsc_0038.jpg" crc="322187222" seo="true" ref="gallery"/>
+    <file name="dsc_0053.jpg" crc="4081612762" seo="true" ref="gallery"/>
+    <file name="dsc_0111 - copy2.jpg" crc="4012457830" seo="true" ref="gallery"/>
+    <file name="dsc_0130.jpg" crc="4062052877" seo="true" ref="gallery"/>
+    <file name="dsc_0131.jpg" crc="12943889" seo="true" ref="gallery"/>
+    <file name="dsc_0154.jpg" crc="256259178" seo="true" ref="gallery"/>
+    <file name="dsc_0163.jpg" crc="245793332" seo="true" ref="gallery"/>
+    <file name="dsc_000368x45.jpg" crc="309369795" seo="true" ref="gallery"/>
+    <file name="dsc_000968x45.jpg" crc="305063766" seo="true" ref="gallery"/>
+    <file name="dsc_003868x45.jpg" crc="220490296" seo="true" ref="gallery"/>
+    <file name="dsc_005368x45.jpg" crc="141687986" seo="true" ref="gallery"/>
+    <file name="dsc_0111 - copy68x45.jpg" crc="169154446" seo="true" ref="gallery"/>
+    <file name="dsc_013068x45.jpg" crc="245207212" seo="true" ref="gallery"/>
+    <file name="dsc_013168x45.jpg" crc="3984959827" seo="true" ref="gallery"/>
+    <file name="dsc_015468x45.jpg" crc="4093234744" seo="true" ref="gallery"/>
+    <file name="dsc_016368x45.jpg" crc="360432525" seo="true" ref="gallery"/>
+    <file name="u26617-4.png" crc="452362741" ref="gallery"/>
+    <file name="u26622-4.png" crc="3796763632" ref="gallery"/>
+    <file name="u26508.png" crc="474987450" ref="gallery"/>
+    <file name="u26508-r.png" crc="56786090" ref="gallery"/>
+    <file name="dsc_00172.jpg" crc="236625764" seo="true" ref="gallery"/>
+    <file name="dsc_0031.jpg" crc="4229228106" seo="true" ref="gallery"/>
+    <file name="dsc_00362.jpg" crc="3883303932" seo="true" ref="gallery"/>
+    <file name="dsc_0043.jpg" crc="278478873" seo="true" ref="gallery"/>
+    <file name="dsc_0045.jpg" crc="4196770306" seo="true" ref="gallery"/>
+    <file name="dsc_0059.jpg" crc="4062837666" seo="true" ref="gallery"/>
+    <file name="dsc_0067.jpg" crc="3760365485" seo="true" ref="gallery"/>
+    <file name="dsc_0070-u25258.png" crc="228803300" ref="gallery"/>
+    <file name="dsc_0127.jpg" crc="3938128946" seo="true" ref="gallery"/>
+    <file name="dsc_0137.jpg" crc="3916820482" seo="true" ref="gallery"/>
+    <file name="dsc_01402.jpg" crc="62174171" seo="true" ref="gallery"/>
+    <file name="dsc_0148.jpg" crc="256676984" seo="true" ref="gallery"/>
+    <file name="dsc_0161.jpg" crc="156680404" seo="true" ref="gallery"/>
+    <file name="dsc_0215.jpg" crc="230651950" seo="true" ref="gallery"/>
+    <file name="dsc_0262-u25321.png" crc="396057944" ref="gallery"/>
+    <file name="dsc_0355 (2).jpg" crc="3775419340" seo="true" ref="gallery"/>
+    <file name="dsc_0432.jpg" crc="482810480" seo="true" ref="gallery"/>
+    <file name="dsc_1638.jpg" crc="4229216136" seo="true" ref="gallery"/>
+    <file name="img_8065.jpg" crc="3993997249" seo="true" ref="gallery"/>
+    <file name="img_9542.jpg" crc="90934340" seo="true" ref="gallery"/>
+    <file name="rag_0144-u25375.png" crc="3980196424" ref="gallery"/>
+    <file name="rag_0147.jpg" crc="91018630" seo="true" ref="gallery"/>
+    <file name="rag_0164.jpg" crc="4117904021" seo="true" ref="gallery"/>
+    <file name="rag_0201.jpg" crc="4170973550" seo="true" ref="gallery"/>
+    <file name="rag_0223.jpg" crc="205661710" seo="true" ref="gallery"/>
+    <file name="rag_0243-u25420.png" crc="499589032" ref="gallery"/>
+    <file name="dsc_0017-crop-u25046.jpg" crc="216950364" ref="gallery"/>
+    <file name="dsc_0031-crop-u25207.jpg" crc="4133388304" ref="gallery"/>
+    <file name="dsc_0036-crop-u25216.jpg" crc="205249650" ref="gallery"/>
+    <file name="dsc_0043-crop-u25225.jpg" crc="73992715" ref="gallery"/>
+    <file name="dsc_0045-crop-u25234.jpg" crc="442518600" ref="gallery"/>
+    <file name="dsc_0059-crop-u25243.jpg" crc="207203998" ref="gallery"/>
+    <file name="dsc_0067-crop-u25252.jpg" crc="348224687" ref="gallery"/>
+    <file name="u25261.png" crc="3808224798" ref="gallery"/>
+    <file name="u25261-a.png" crc="3808224798" ref="gallery"/>
+    <file name="dsc_0127-crop-u25270.jpg" crc="235174627" ref="gallery"/>
+    <file name="dsc_0137-crop-u25279.jpg" crc="208910588" ref="gallery"/>
+    <file name="dsc_0140-crop-u25288.jpg" crc="318185416" ref="gallery"/>
+    <file name="dsc_0148-crop-u25297.jpg" crc="3977580555" ref="gallery"/>
+    <file name="dsc_0161-crop-u25306.jpg" crc="183414606" ref="gallery"/>
+    <file name="dsc_0215-crop-u25315.jpg" crc="88523060" ref="gallery"/>
+    <file name="dsc_0262-crop-u25324.jpg" crc="490988847" ref="gallery"/>
+    <file name="dsc_0355 (2)-crop-u25333.jpg" crc="354400020" ref="gallery"/>
+    <file name="dsc_0432-crop-u25342.jpg" crc="30836850" ref="gallery"/>
+    <file name="dsc_1638-crop-u25351.jpg" crc="4150452030" ref="gallery"/>
+    <file name="img_8065-crop-u25360.jpg" crc="4136420591" ref="gallery"/>
+    <file name="img_9542-crop-u25369.jpg" crc="449202608" ref="gallery"/>
+    <file name="rag_0144-crop-u25378.jpg" crc="3910950290" ref="gallery"/>
+    <file name="rag_0147-crop-u25387.jpg" crc="106580743" ref="gallery"/>
+    <file name="rag_0164-crop-u25396.jpg" crc="4097199342" ref="gallery"/>
+    <file name="rag_0201-crop-u25405.jpg" crc="3989780072" ref="gallery"/>
+    <file name="rag_0223-crop-u25414.jpg" crc="4050187440" ref="gallery"/>
+    <file name="rag_0243-crop-u25423.jpg" crc="221178494" ref="gallery"/>
+    <file name="u25060-4.png" crc="3843275020" ref="gallery"/>
+    <file name="u25065-4.png" crc="4033302536" ref="gallery"/>
+    <file name="u27302.png" crc="504432703" ref="gallery"/>
+    <file name="u27302-r.png" crc="120025387" ref="gallery"/>
+    <file name="dsc_0075-crop-u26909.jpg" crc="3761169347" ref="gallery"/>
+    <file name="dsc_6966.jpg" crc="4118157822" seo="true" ref="gallery"/>
+    <file name="dsc_7055.jpg" crc="515714031" seo="true" ref="gallery"/>
+    <file name="dsc_7065-u27057.png" crc="95722864" ref="gallery"/>
+    <file name="dsc_7070.jpg" crc="3776839471" seo="true" ref="gallery"/>
+    <file name="img_0090-u27075.png" crc="347882789" ref="gallery"/>
+    <file name="img_8007.jpg" crc="17523483" seo="true" ref="gallery"/>
+    <file name="img_0118-u27084.png" crc="505316796" ref="gallery"/>
+    <file name="img_0663.jpg" crc="4035457654" seo="true" ref="gallery"/>
+    <file name="img_5802.jpg" crc="4142344821" seo="true" ref="gallery"/>
+    <file name="img_5919.jpg" crc="528779077" seo="true" ref="gallery"/>
+    <file name="img_6776.jpg" crc="16733005" seo="true" ref="gallery"/>
+    <file name="img_6791.jpg" crc="354721806" seo="true" ref="gallery"/>
+    <file name="img_7584-u27138.png" crc="381512802" ref="gallery"/>
+    <file name="img_7621-u27147.png" crc="4162422116" ref="gallery"/>
+    <file name="img_7677.jpg" crc="483104162" seo="true" ref="gallery"/>
+    <file name="img_7735-u27165.png" crc="332845938" ref="gallery"/>
+    <file name="untitled-3.jpg" crc="147486094" seo="true" ref="gallery"/>
+    <file name="dsc_0075-crop-u26921.jpg" crc="70087632" ref="gallery"/>
+    <file name="dsc_696653x35.jpg" crc="425488172" seo="true" ref="gallery"/>
+    <file name="dsc_705553x35.jpg" crc="250995142" seo="true" ref="gallery"/>
+    <file name="dsc_706553x35.jpg" crc="4118310350" seo="true" ref="gallery"/>
+    <file name="dsc_707053x35.jpg" crc="3820132250" seo="true" ref="gallery"/>
+    <file name="img_009053x35.jpg" crc="4180167997" seo="true" ref="gallery"/>
+    <file name="img_800753x35.jpg" crc="408230262" seo="true" ref="gallery"/>
+    <file name="img_011853x35.jpg" crc="179548651" seo="true" ref="gallery"/>
+    <file name="img_066353x35.jpg" crc="483165580" seo="true" ref="gallery"/>
+    <file name="img_580253x35.jpg" crc="422858483" seo="true" ref="gallery"/>
+    <file name="img_591953x35.jpg" crc="4254734867" seo="true" ref="gallery"/>
+    <file name="img_677653x35.jpg" crc="80248436" seo="true" ref="gallery"/>
+    <file name="img_679153x35.jpg" crc="4226981571" seo="true" ref="gallery"/>
+    <file name="img_758453x35.jpg" crc="159963005" seo="true" ref="gallery"/>
+    <file name="img_762153x35.jpg" crc="4244144631" seo="true" ref="gallery"/>
+    <file name="img_767753x35.jpg" crc="4090288178" seo="true" ref="gallery"/>
+    <file name="img_773553x35.jpg" crc="4181921766" seo="true" ref="gallery"/>
+    <file name="untitled-353x35.jpg" crc="74637378" seo="true" ref="gallery"/>
+    <file name="u26901-4.png" crc="452362741" ref="gallery"/>
+    <file name="u26915-4.png" crc="3796763632" ref="gallery"/>
+    <file name="u27523.png" crc="139041153" ref="gallery"/>
+    <file name="u27523-r.png" crc="3927532531" ref="gallery"/>
+    <file name="dsc_0020.jpg" crc="3885783521" seo="true" ref="gallery"/>
+    <file name="img_9343.jpg" crc="3919040319" seo="true" ref="gallery"/>
+    <file name="img_9352.jpg" crc="488626677" seo="true" ref="gallery"/>
+    <file name="img_9347.jpg" crc="4010558566" seo="true" ref="gallery"/>
+    <file name="img_9358.jpg" crc="4229049393" seo="true" ref="gallery"/>
+    <file name="dsc_0013.jpg" crc="8053215" seo="true" ref="gallery"/>
+    <file name="dsc_00092.jpg" crc="331572741" seo="true" ref="gallery"/>
+    <file name="dsc_0606.jpg" crc="52824120" seo="true" ref="gallery"/>
+    <file name="dsc_002068x45.jpg" crc="360293404" seo="true" ref="gallery"/>
+    <file name="img_934368x45.jpg" crc="4090787780" seo="true" ref="gallery"/>
+    <file name="img_935268x45.jpg" crc="4208737298" seo="true" ref="gallery"/>
+    <file name="img_934768x45.jpg" crc="4057079891" seo="true" ref="gallery"/>
+    <file name="img_935868x45.jpg" crc="284473241" seo="true" ref="gallery"/>
+    <file name="dsc_001368x45.jpg" crc="4126148957" seo="true" ref="gallery"/>
+    <file name="dsc_000968x452.jpg" crc="3772867660" seo="true" ref="gallery"/>
+    <file name="dsc_060668x45.jpg" crc="3950295580" seo="true" ref="gallery"/>
+    <file name="u27417-4.png" crc="4035639192" ref="gallery"/>
+    <file name="u27431-4.png" crc="301233479" ref="gallery"/>
+    <file name="set-icon-left-right-blue-arrow-button-navigation-u24623-fr.png" crc="3830219632" ref="gallery"/>
+    <file name="set-icon-left-right-blue-arrow-button-navigation-u24623-a-fr.png" crc="288161988" ref="gallery"/>
+    <file name="ipad-air-horizontal2.jpg" crc="21304488" seo="true" ref="gallery"/>
+    <file name="dsc_0209-2-crop-u32490.jpg" crc="276215200" ref="gallery"/>
+    <file name="noisy_grid.jpg" crc="343130239" ref="culture"/>
+    <file name="pasted image 1504x1004.jpg" crc="3836300022" seo="true" ref="culture"/>
+    <file name="u31153-12.png" crc="4164521788" ref="culture"/>
+    <file name="dsc_00452.jpg" crc="4022740664" seo="true" ref="culture"/>
+    <file name="images2.jpg" crc="4090721076" seo="true" ref="culture"/>
+    <file name="debate.jpg" crc="165247025" seo="true" ref="culture"/>
+    <file name="mask4.jpg" crc="3903984439" seo="true" ref="culture"/>
+    <file name="tiger24.png" crc="8034504" seo="true" ref="culture"/>
+    <file name="img_9782.jpg" crc="4114654033" seo="true" ref="culture"/>
+    <file name="u31212-8.png" crc="3963862269" ref="culture"/>
+    <file name="u31236-19.png" crc="3825309888" ref="culture"/>
+    <file name="13312912_1644464412545089_2910471110671793413_n.jpg" crc="3884533880" seo="true" ref="culture"/>
+    <file name="u31211-8.png" crc="465138022" ref="culture"/>
+    <file name="11249555_825939630857445_4109375142193382751_n-crop-u31163.jpg" crc="3842553943" ref="culture"/>
+    <file name="u31156-7.png" crc="3833055880" ref="culture"/>
+    <file name="img_0090-u31148.png" crc="58519081" ref="culture"/>
+    <file name="img_76772.jpg" crc="451148063" seo="true" ref="culture"/>
+    <file name="u31143-6.png" crc="173748454" ref="culture"/>
+    <file name="dsc_0034-crop-u32746.jpg" crc="4172995600" ref="culture"/>
+    <file name="diagonales_decalees_@2gsddddddddddddx.jpg" crc="4107226810" ref="culture"/>
+    <file name="dsc_0209-2-crop-u32333.jpg" crc="276215200" ref="culture"/>
+  </folder>
+  <file name="index.html" crc="4245138830" seo="true" mt="1465812894254" redirect="true"/>
+  <file name="about-us.html" crc="4128033990" seo="true" mt="1465813024552" redirect="true"/>
+  <file name="contact-us.html" crc="4005932731" seo="true" mt="1465754916829" redirect="true"/>
+  <file name="academics.html" crc="453889304" seo="true" mt="1465753174276" redirect="true"/>
+  <file name="sports.html" crc="4202395154" seo="true" mt="1465753174260" redirect="true"/>
+  <file name="gallery.html" crc="4029297475" seo="true" mt="1465789056126" redirect="true"/>
+  <file name="culture.html" crc="4257097890" seo="true" mt="1465788945743" redirect="true"/>
+</manifest>
